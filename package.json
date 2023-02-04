@@ -1,0 +1,8 @@
+{
+  "name": "ReserveMate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/InclusiveTechnology/ReserveMate.git",
+  "author": "Robson Fernando Trasel de Souza <robson.trasel@gmail.com>",
+  "license": "MIT"
+}
